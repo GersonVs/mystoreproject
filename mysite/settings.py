@@ -25,7 +25,7 @@ SECRET_KEY = 'xrvl2oe3xc1+(#$gns3!ccp$-wd*195#91kzp5fy!*c56r)ps^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.mystoreproject.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gersonvs.pythonanywhere.com']
 
 
 # Application definition
